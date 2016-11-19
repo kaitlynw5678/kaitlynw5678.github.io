@@ -1,0 +1,20 @@
+
+body {background-image: url("wallpaper2.jpg");
+		font-family: 'Ranga', cursive;}
+	
+
+h1 { font-size: 350%;
+	font-weight: bold;}
+	
+	
+
+	
+	NAV LI {list-style-type: none; 
+			display: inline-block
+			border: 2px solid hotpink;
+			padding: 5px;
+			background: white;
+			MARGIN: 10PX;
+			width: 135px}
+			
+			
